@@ -1,6 +1,7 @@
 # Fitness Tracker
 
 ## URL (deployed to Heroku)
+https://arcane-citadel-25086.herokuapp.com/
 
 ## Description
 This is an application is a workout tracker connected to a Mongo database with a Mongoose schema and handle routes with Express.
